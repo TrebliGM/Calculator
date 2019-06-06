@@ -1,0 +1,13 @@
+C:\Users\Matthew\Desktop\TAFE\DIPLOMA\Programming III\Activity 6\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Matthew\Desktop\TAFE\DIPLOMA\Programming III\Activity 6\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Matthew\Desktop\TAFE\DIPLOMA\Programming III\Activity 6\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Matthew\Desktop\TAFE\DIPLOMA\Programming III\Activity 6\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Matthew\Desktop\TAFE\DIPLOMA\Programming III\Activity 6\Calculator\Calculator\obj\Debug\Calculator.frmCalc.resources
+C:\Users\Matthew\Desktop\TAFE\DIPLOMA\Programming III\Activity 6\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Matthew\Desktop\TAFE\DIPLOMA\Programming III\Activity 6\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Matthew\Desktop\TAFE\DIPLOMA\Programming III\Activity 6\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Desktop\TAFE\DIPLOMA\Programming III\Activity 6\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Matthew\Desktop\TAFE\DIPLOMA\Programming III\Activity 6\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Matthew\Desktop\TAFE\DIPLOMA\Programming III\Activity 6\Calculator\Calculator\bin\Debug\BasicMath.dll
+C:\Users\Matthew\Desktop\TAFE\DIPLOMA\Programming III\Activity 6\Calculator\Calculator\bin\Debug\BasicMath.pdb
+C:\Users\Matthew\Desktop\TAFE\DIPLOMA\Programming III\Activity 6\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
